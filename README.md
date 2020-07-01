@@ -10,9 +10,10 @@ Takes in a word (or sentence) and an array of valid substrings as arguments. Ret
 
 ## Stock_Picker
 ### A stock picker method written in Ruby
-stock_picker takes in an array as an argument and determines the optimal day to buy and sell stocks for maximum profit. <br>
+Takes in an array as an argument and determines the optimal day to buy and sell stocks for maximum profit. <br>
 ie: `stock_picker([numbers])`<br>
 Returns an array where the first value in the array is the day to buy and the second value is the day to sell. 
 
 ## Bubble_Sort
 ### A bubble sorting algorithm written in Ruby
+Takes in an unsorted number array and uses the bubble sort algorithm to sort the array from low to high ie: `bubble_sort([unsorted_array])`
